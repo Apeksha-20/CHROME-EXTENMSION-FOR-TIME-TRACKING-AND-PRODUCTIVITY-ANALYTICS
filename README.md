@@ -2,10 +2,15 @@
 📌 Internship Project
 
 Company: CODTECH IT SOLUTIONS
+
 Name: APEKSHA RAJU CHAVAN
+
 Intern ID: CTIS5239
+
 Domain: Full Stack Web Development
+
 Duration: 12 Weeks
+
 Mentor: Neela Santosh Kumar
 
 ________________________________________
