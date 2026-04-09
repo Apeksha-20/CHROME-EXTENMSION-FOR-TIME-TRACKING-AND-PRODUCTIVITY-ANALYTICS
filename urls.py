@@ -1,7 +1,7 @@
-from django.contrib import admin
-from django.urls import path, include
+from django.urls import path
+from .views import home, track_time
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('', include('tracker.urls')),
+    path('', home),
+    path('api/track/', track_time),
 ]
