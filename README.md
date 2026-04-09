@@ -21,15 +21,17 @@ This project helps users understand their browsing habits and improve productivi
 
 ________________________________________
 ⚙️ Technologies Used
-Frontend
+##Frontend
 •	HTML
 •	JavaScript
 •	Chrome Extension APIs
-Backend
+
+##Backend
 •	Django
 •	Python
 •	SQLite Database
-Tools
+
+##Tools
 •	Chrome Developer Mode
 •	VS Code
 •	Postman
