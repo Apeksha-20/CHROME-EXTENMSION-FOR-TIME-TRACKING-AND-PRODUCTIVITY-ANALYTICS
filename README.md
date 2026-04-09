@@ -1,16 +1,19 @@
 🚀 Productivity Tracker Chrome Extension
 📌 Internship Project
+
 Company: CODTECH IT SOLUTIONS
 Name: APEKSHA RAJU CHAVAN
 Intern ID: CTIS5239
 Domain: Full Stack Web Development
 Duration: 12 Weeks
 Mentor: Neela Santosh Kumar
+
 ________________________________________
 📖 Project Description
 The Productivity Tracker Chrome Extension is a browser extension designed to monitor and analyze the amount of time users spend on different websites. The extension automatically tracks active browser tabs and sends usage data to a backend server.
 The backend is developed using Django, which stores the browsing data and allows administrators to analyze productivity patterns.
 This project helps users understand their browsing habits and improve productivity by identifying time spent on various websites.
+
 ________________________________________
 ⚙️ Technologies Used
 Frontend
@@ -34,6 +37,7 @@ Chrome Extension → Django API → Database → Admin Dashboard
 4.	Django stores data in database.
 5.	Admin panel displays tracked website data.
 ________________________________________
+
 📁 Project Structure
 productivity_tracker_project
 productivity_backend
@@ -110,6 +114,7 @@ ________________________________________
 🎯 Conclusion
 This project demonstrates the integration of Chrome Extensions with a Django backend to build a productivity monitoring system. It provides valuable insights into browsing behavior and helps improve user productivity.
 ________________________________________
+
 👨‍💻 Author
 APEKSHA RAJU CHAVAN
 Full Stack Web Development Intern
