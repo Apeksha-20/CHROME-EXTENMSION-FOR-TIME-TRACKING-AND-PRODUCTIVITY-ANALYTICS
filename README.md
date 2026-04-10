@@ -120,8 +120,7 @@ ________________________________________
 ________________________________________
 🎯 Conclusion
 This project demonstrates the integration of Chrome Extensions with a Django backend to build a productivity monitoring system. It provides valuable insights into browsing behavior and helps improve user productivity.
-________________________________________
-
+_____________________________________
 👨‍💻 Author
 APEKSHA RAJU CHAVAN
 Full Stack Web Development Intern
